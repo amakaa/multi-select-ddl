@@ -1,0 +1,27 @@
+.container {
+  border-left: 1px solid #cccccc;
+  border-right: 1px solid #cccccc;
+  border-top: 1px solid #cccccc;
+  width: 400px;
+  margin: 0 auto;
+  outline: none;
+}
+
+.select-container {
+  border-bottom: 1px solid #cccccc;
+  display: flex;
+  padding: 3px;
+  flex-wrap: wrap;
+  cursor: pointer;
+}
+
+.default-value {
+  margin: 10px;
+}
+
+.toggle-button {
+  color: #9e9e9e;
+  margin-top: 10px;
+  margin-right: 10px;
+  margin-left: auto;
+}

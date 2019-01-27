@@ -1,0 +1,15 @@
+.selected-item {
+  background-color: #D6EFFE;
+  color: #5EACB9;
+  display: flex;
+  padding: 5px 10px;
+  margin: 3px;
+  height: 18px;
+  font-weight: 600;
+}
+
+.close-button svg {
+  width: 18px;
+  margin-top: -3px;
+  margin-left: 5px;
+}
